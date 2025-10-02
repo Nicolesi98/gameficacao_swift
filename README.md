@@ -120,29 +120,6 @@ gameficacao_swift/
 - `npm run lint` - Executa o linter ESLint
 - `npm run typecheck` - Verifica os tipos TypeScript
 
-## 🔐 Configuração do Supabase
 
-1. Crie uma conta no [Supabase](https://supabase.com/)
-2. Crie um novo projeto
-3. Copie a URL do projeto e a chave anônima
-4. Configure as variáveis no arquivo `.env`
 
-## 🤝 Contribuição
 
-1. Faça um fork do projeto
-2. Crie uma branch para sua feature (`git checkout -b feature/AmazingFeature`)
-3. Commit suas mudanças (`git commit -m 'Add some AmazingFeature'`)
-4. Push para a branch (`git push origin feature/AmazingFeature`)
-5. Abra um Pull Request
-
-## 📝 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
-## 📞 Suporte
-
-Para suporte, entre em contato através do email: suporte@swift.com
-
----
-
-**Desenvolvido com ❤️ pela equipe Swift**
